@@ -1,6 +1,3 @@
-"""
-🎮 Game Engine — Mining logic, buffs, leveling, achievements
-"""
 import random
 import logging
 from datetime import datetime, timedelta
