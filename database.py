@@ -1,7 +1,3 @@
-"""
-🗄️ Database Module — SQLite via aiosqlite
-   Semua operasi database ada di sini
-"""
 import aiosqlite
 import json
 import logging
