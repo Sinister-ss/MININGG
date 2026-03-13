@@ -47,4 +47,4 @@ class RegisterMiddleware(BaseMiddleware):
                 )
                 logger.info(f"Auto-registered: {user_obj.id} @{user_obj.username}")
 
-return await handler(event, data)
+        return await handler(event, data)
